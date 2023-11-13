@@ -1,0 +1,75 @@
+,Name,Alpha code,Numeric code,Status
+0,Alabama,AL,01,State; counties
+1,Alaska,AK,02,State; boroughs
+2,American Samoa,AS,60,Outlying area under U.S. sovereignty
+3,American Samoa *,,03,(FIPS 5-1 reserved code)
+4,Arizona,AZ,04,State; counties
+5,Arkansas,AR,05,State; counties
+6,Baker Island,BI,81,Minor outlying island territory
+7,California,CA,06,State; counties
+8,Canal Zone *,,07,(FIPS 5-1 reserved code)
+9,Colorado,CO,08,State; counties
+10,Connecticut,CT,09,State; counties
+11,Delaware,DE,10,State; counties
+12,District of Columbia,DC,11,Federal district[4]
+13,Florida,FL,12,State; counties
+14,Federated States of Micronesia,FM,64,Freely Associated State
+15,Georgia,GA,13,State; counties
+16,Guam *,,14,(FIPS 5-1 reserved code)
+17,Guam,GU,66,Outlying area under U.S. sovereignty
+18,Hawaii,HI,15,State; counties
+19,Howland Island,HI,84,Minor outlying island territory
+20,Idaho,ID,16,State; counties
+21,Illinois,IL,17,State; counties
+22,Indiana,IN,18,State; counties
+23,Iowa,IA,19,State; counties
+24,Jarvis Island,JI,86,Minor outlying island territory
+25,Johnston Atoll,JA,67,Minor outlying island territory
+26,Kansas,KS,20,State; counties
+27,Kentucky,KY,21,State; counties
+28,Kingman Reef,KR,89,Minor outlying island territory
+29,Louisiana,LA,22,State; parishes
+30,Maine,ME,23,State; counties
+31,Marshall Islands,MH,68,Freely Associated State
+32,Maryland,MD,24,State; counties
+33,Massachusetts,MA,25,State; counties
+34,Michigan,MI,26,State; counties
+35,Midway Islands,MI,71,Minor outlying island territory
+36,Minnesota,MN,27,State; counties
+37,Mississippi,MS,28,State; counties
+38,Missouri,MO,29,State; counties
+39,Montana,MT,30,State; counties
+40,Navassa Island,NI,76,Minor outlying island territory
+41,Nebraska,NE,31,State; counties
+42,Nevada,NV,32,State; counties
+43,New Hampshire,NH,33,State; counties
+44,New Jersey,NJ,34,State; counties
+45,New Mexico,NM,35,State; counties
+46,New York,NY,36,State; counties
+47,North Carolina,NC,37,State; counties
+48,North Dakota,ND,38,State; counties
+49,Northern Mariana Islands,MP,69,Outlying area under U.S. sovereignty
+50,Ohio,OH,39,State; counties
+51,Oklahoma,OK,40,State; counties
+52,Oregon,OR,41,State; counties
+53,Palau,PW,70,Freely Associated State
+54,Palmyra Atoll,PA,95,Minor outlying island territory
+55,Pennsylvania,PA,42,State; counties
+56,Puerto Rico *,,43,(FIPS 5-1 reserved code)
+57,Puerto Rico,PR,72,Outlying area under U.S. sovereignty
+58,Rhode Island,RI,44,State; counties
+59,South Carolina,SC,45,State; counties
+60,South Dakota,SD,46,State; counties
+61,Tennessee,TN,47,State; counties
+62,Texas,TX,48,State; counties
+63,U.S. Minor Outlying Islands,UM,74,Minor outlying island territories (aggregated)
+64,Utah,UT,49,State; counties
+65,Vermont,VT,50,State; counties
+66,Virginia,VA,51,State; counties
+67,Virgin Islands of the U.S. *,,52,(FIPS 5-1 reserved code)
+68,Virgin Islands of the U.S.,VI,78,Outlying area under U.S. sovereignty
+69,Wake Island,WI,79,Minor outlying island territory
+70,Washington,WA,53,State; counties
+71,West Virginia,WV,54,State; counties
+72,Wisconsin,WI,55,State; counties
+73,Wyoming,WY,56,State; counties

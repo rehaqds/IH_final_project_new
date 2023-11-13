@@ -1,3 +1,13 @@
+*.html
+*.url
+*.pdf
+*.rtf
+
+_old
+old
+LLCP2021.ASC
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
