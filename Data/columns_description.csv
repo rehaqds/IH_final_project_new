@@ -1,0 +1,397 @@
+,,,,
+,,,,
+,Name,Question,,
+,_STATE,State FIPS Code ,,
+,SEXVAR,Sex of Respondent ,1 male/2 female,
+,GENHLTH,Would you say that in general your health is: ,"1	Excellent 
+2	Very good 
+3	Good 
+4	Fair 
+5	Poor 
+7	Don’t know/Not Sure 
+9	Refused 
+BLANK 	Not asked or Missing",
+,MEDCOST1,"Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it? 
+","1	Yes 
+2	No 
+7	Don’t know/Not sure 
+9	Refused 
+BLANK 	Not asked or Missing 
+ 
+",
+,CHECKUP1,checkup,*** remove,
+,EXERANY2,"During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise? 
+","1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not Sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,CVDINFR4,"(Ever told) you had a heart attack, also called a myocardial infarction? 
+","1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,CVDCRHD4,(Ever told) (you had) angina or coronary heart disease? ,"1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,CVDSTRK3,(Ever told) (you had) a stroke. ,"1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,ASTHMA3,(Ever told) (you had) asthma? ,"1 
+Yes 
+2 
+No—Go to Section 06.06 CHCSCNCR 
+7 
+Don’t know/Not Sure—Go to Section 06.06 CHCSCNCR 
+9 
+Refused—Go to Section 06.06 CHCSCNCR 
+BLANK 
+Not asked or Missing 
+",
+,ADDEPEV3,"(Ever told) (you had) a depressive disorder (including depression, major depression, dysthymia, or minor depression)? ","1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,DIABETE4,"(Ever told) (you had) diabetes? (If ´Yes´ and respondent is female, ask ´Was this only when you were pregnant?´. If Respondent says pre-diabetes or borderline diabetes, use response code 4.) ","1 
+Yes 
+2 
+Yes, but female told only during pregnancy—Go to Section 08.01 HAVARTH5 
+3 
+No—Go to Section 08.01 HAVARTH5 
+4 
+No, pre-diabetes or borderline diabetes—Go to Section 08.01 HAVARTH5 
+7 
+Don’t know/Not Sure—Go to Section 08.01 HAVARTH5 
+9 
+Refused—Go to Section 08.01 HAVARTH5 
+BLANK 
+Not asked or Missing 
+",
+,MARITAL,,*** remove,
+,EDUCA,What is the highest grade or year of school you completed? ,"1 
+Never attended school or only kindergarten 
+2 
+Grades 1 through 8 (Elementary) 
+3 
+Grades 9 through 11 (Some high school) 
+4 
+Grade 12 or GED (High school graduate) 
+5 
+College 1 year to 3 years (Some college or technical school) 
+6 
+College 4 years or more (College graduate) 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,VETERAN3,"Have you ever served on active duty in the United States Armed Forces, either in the regular military or in a National Guard or military reserve unit? ","1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not Sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,INCOME3,"Is your annual household income from all sources: (If respondent refuses at any income level, code ´Refused.´) ","1 
+Less than $10,000 
+2 
+Less than $15,000 ($10,000 to < $15,000) 
+3 
+Less than $20,000 ($15,000 to < $20,000) 
+4 
+Less than $25,000 ($20,000 to < $25,000) 
+5 
+Less than $35,000 ($25,000 to < $35,000) 
+6 
+Less than $50,000 ($35,000 to < $50,000) 
+7 
+Less than $75,000 ($50,000 to < $75,000) 
+8 
+Less than $100,000? ($75,000 to < $100,000) 
+9 
+Less than $150,000? ($100,000 to < $150,000)? 
+10 
+Less than $200,000? ($150,000 to < $200,000) 
+11 
+$200,000 or more 
+77 
+Don’t know/Not sure 
+99 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,WEIGHT2,"About how much do you weigh without shoes? (If respondent answers in metrics, put a 9 in the first column)[Round fractions up.] ","50 -0776 
+Weight (pounds) Notes: 0 _ _ _ = weight in pounds 
+7777 
+Don’t know/Not sure 
+9023 ­9352 
+Weight (kilograms) Notes: The initial ´9´ indicates this was a metric value. 
+9999 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,HEIGHT3,"About how tall are you without shoes? (If respondent answers in metrics, put a 9 in the first column)[Round fractions down.] ","200 -711 
+Height (ft/inches) Notes: 0 _ / _ _ = feet / inches 
+7777 
+Don’t know/Not sure 
+9061 ­9998 
+Height (meters/centimeters) Notes: The initial ´9 ´ indicates this was a metric value. 
+9999 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,SMOKE100,Have you smoked at least 100 cigarettes in your entire life? [Note: 5 packs = 100 cigarettes] ,"1 
+Yes 
+2 
+No—Go to Section 11.03 USENOW3 
+7 
+Don’t know/Not Sure—Go to Section 11.03 USENOW3 
+9 
+Refused—Go to Section 11.03 USENOW3 
+BLANK 
+Not asked or Missing 
+",
+,ACEHURT1,"Not including spanking, (before age 18), how often did a parent or adult in your home ever hit, beat, kick, or physically hurt you in any way? Was it— ","1 
+Never 
+2 
+Once 
+3 
+More than once 
+7 
+Don’t know/Not Sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,_URBSTAT,Urban/Rural Status ,"1 
+Urban counties (_URBNRRL = 1,2,3,4,5) 
+2 
+Rural counties (_URBNRRL = 6) 
+BLANK 
+Not defined or Missing 
+",
+,_AGEG5YR,Fourteen-level age category ,"1 
+Age 18 to 24 Notes: 18 <= AGE <= 24 
+2 
+Age 25 to 29 Notes: 25 <= AGE <= 29 
+3 
+Age 30 to 34 Notes: 30 <= AGE <= 34 
+4 
+Age 35 to 39 Notes: 35 <= AGE <= 39 
+5 
+Age 40 to 44 Notes: 40 <= AGE <= 44 
+6 
+Age 45 to 49 Notes: 45 <= AGE <= 49 
+7 
+Age 50 to 54 Notes: 50 <= AGE <= 54 
+8 
+Age 55 to 59 Notes: 55 <= AGE <= 59 
+9 
+Age 60 to 64 Notes: 60 <= AGE <= 64 
+10 
+Age 65 to 69 Notes: 65 <= AGE <= 69 
+11 
+Age 70 to 74 Notes: 70 <= AGE <= 74 
+12 
+Age 75 to 79 Notes: 75 <= AGE <= 79 
+13 
+Age 80 or older Notes: 80 <= AGE <= 99 
+14 
+Don’t know/Refused/Missing Notes: 7 <= AGE <= 9 
+",
+,_BMI5,,*** remove (can be computed), 
+,_BMI5CAT,Four-categories of Body Mass Index (BMI) ,"1 
+Underweight Notes: _BMI5 < 1850 (_BMI5 has 2 implied decimal places) 
+2 
+Normal Weight Notes: 1850 <= _BMI5 < 2500 
+3 
+Overweight Notes: 2500 <= _BMI5 < 3000 
+4 
+Obese Notes: 3000 <= _BMI5 < 9999 
+BLANK 
+Don’t know/Refused/Missing Notes: _BMI5 = 9999 
+",
+,BPHIGH6,"Have you ever been told by a doctor, nurse or other health professional that you have high blood pressure? (If ´Yes´ and respondent is female, ask ´Was this only when you were pregnant?´.) ","1 
+Yes 
+2 
+Yes, but female told only during pregnancy—Go to Section 06.01 CHOLCHK3 
+3 
+No—Go to Section 06.01 CHOLCHK3 
+4 
+Told borderline high or pre-hypertensive or elevated blood pressure—Go to Section 06.01 CHOLCHK3 
+7 
+Don´t know/Not Sure—Go to Section 06.01 CHOLCHK3 
+9 
+Refused—Go to Section 06.01 CHOLCHK3 
+BLANK 
+Not asked or Missing 
+",
+,TOLDHI3,"Have you ever been told by a doctor, nurse or other health professional that your cholesterol is high? ","1 
+Yes 
+2 
+No 
+7 
+Don’t know/Not Sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing Notes: Section 06.01, CHOLCHK3, is coded 1, 7, 9, or Missing 
+",
+,CHCSCNCR,(Ever told) (you had) skin cancer? ,"1 
+Yes 
+2 
+No 
+7 
+Don’t know / Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,CHCOCNCR,(Ever told) (you had) any other types of cancer? ,"1 
+Yes 
+2 
+No 
+7 
+Don’t know / Not sure 
+9 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,HAVARTH5,"Has a doctor, nurse or other health professional ever told you that you had some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia? (Arthritis diagnoses include: rheumatism, polymyalgia rheumatic, osteoarthritis (not osteoporosis), tendonitis, bursitis, bunion, tennis elbow, carpal tunnel syndrome, tarsal tunnel syndrome, joint infection, Reiter’s syndrome, ankylosing spondylitis;) ","1 
+Yes 
+2 
+No—Go to Section 09.01 AGE 
+7 
+Don’t know/Not Sure—Go to Section 09.01 AGE 
+9 
+Refused—Go to Section 09.01 AGE 
+BLANK 
+Not asked or Missing 
+",
+,FRUIT2,,"1 
+Yes 
+2 
+No—Go to Section 15.01 FRUIT2 
+7 
+Don’t know/Not Sure—Go to Section 15.01 FRUIT2 
+9 
+Refused—Go to Section 15.01 FRUIT2 
+BLANK 
+Not asked or Missing 
+",
+,FVGREEN1,"How often did you eat a green leafy or lettuce salad, with or without other vegetables? ","101 -199 
+Days 
+201 -299 
+Weeks 
+300 
+Less than once a month 
+301 -399 
+Month / Year 
+555 
+Never 
+777 
+Don’t know/Not sure 
+999 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,VEGETAB2,"Not including lettuce salads and potatoes, how often did you eat other vegetables? ","101 -199 
+Days 
+201 -299 
+Weeks 
+300 
+Less than once a month 
+301 -399 
+Month / Year 
+555 
+Never 
+777 
+Don’t know/Not sure 
+999 
+Refused 
+BLANK 
+Not asked or Missing 
+",
+,_RACE,Race/ethnicity categories ,"1 
+White only, non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 10 
+2 
+Black only, non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 20 
+3 
+American Indian or Alaskan Native only, Non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 33 
+4 
+Asian only, non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 40,41,42,43,44,45,46,47 
+5 
+Native Hawaiian or other Pacific Islander only, Non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 50,51,52,53,54 
+6 
+Other race only, non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 60 
+7 
+Multiracial, non-Hispanic Notes: _HISPANC = 2 and _MRACE1 = 77 
+8 
+Hispanic Notes: _HISPANC = 1 
+9 
+Don’t know/Not sure/Refused Notes: _HISPANC = 7 or 9 or _MRACE1 = 77 or 99 and _HISPANC = 2 
+",
+,_DRNKWK1,Calculated total number of alcoholic beverages consumed per week ,"0 
+Did not drink Notes: ALCDAY5 = 888 or AVEDRNK3 = 88 
+1 -98999 
+Number of drinks per week Notes: AVEDRNK3*DROCDY3_*7 
+99900 
+Don’t know/Not sure/Refused/Missing Notes: ALCDAY5 = 777 or 999 or Missing 
+",
+,_FRUTSU1,Total fruits consumed per day ,"0 -99998 
+Number of Fruits consumed per day (two implied decimal places) 
+BLANK 
+Not asked or Missing 
+",
+,_VEGESU1 ,Total vegetables consumed per day ,"0 -99998 
+Number of Vegetables consumed per day (two implied decimal places) 
+BLANK 
+Not asked or Missing 
+",

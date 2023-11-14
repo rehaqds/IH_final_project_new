@@ -1,53 +1,53 @@
 ,ID State,State,Population
-0,01,Alabama,4997675
-1,02,Alaska,735951
-2,04,Arizona,7079203
-3,05,Arkansas,3006309
-4,06,California,39455353
-5,08,Colorado,5723176
-6,09,Connecticut,3605330
-7,10,Delaware,981892
-8,11,District of Columbia,683154
-9,12,Florida,21339762
-10,13,Georgia,10625615
-11,15,Hawaii,1453498
-12,16,Idaho,1811617
-13,17,Illinois,12821813
-14,18,Indiana,6751340
-15,19,Iowa,3179090
-16,20,Kansas,2932099
-17,21,Kentucky,4494141
-18,22,Louisiana,4657305
-19,23,Maine,1357046
-20,24,Maryland,6148545
-21,25,Massachusetts,6991852
-22,26,Michigan,10062512
-23,27,Minnesota,5670472
-24,28,Mississippi,2967023
-25,29,Missouri,6141534
-26,30,Montana,1077978
-27,31,Nebraska,1951480
-28,32,Nevada,3059238
-29,33,New Hampshire,1372175
-30,34,New Jersey,9234024
-31,35,New Mexico,2109366
-32,36,New York,20114745
-33,37,North Carolina,10367022
-34,38,North Dakota,773344
-35,39,Ohio,11769923
-36,40,Oklahoma,3948136
-37,41,Oregon,4207177
-38,42,Pennsylvania,12970650
-39,44,Rhode Island,1091949
-40,45,South Carolina,5078903
-41,46,South Dakota,881785
-42,47,Tennessee,6859497
-43,48,Texas,28862581
-44,49,Utah,3231370
-45,50,Vermont,641637
-46,51,Virginia,8582479
-47,53,Washington,7617364
-48,54,West Virginia,1801049
-49,55,Wisconsin,5871661
-50,56,Wyoming,576641
-51,72,Puerto Rico,3311274
+0,1,California,39455353
+1,2,Texas,28862581
+2,4,Florida,21339762
+3,5,New York,20114745
+4,6,Pennsylvania,12970650
+5,8,Illinois,12821813
+6,9,Ohio,11769923
+7,10,Georgia,10625615
+8,11,North Carolina,10367022
+9,12,Michigan,10062512
+10,13,New Jersey,9234024
+11,15,Virginia,8582479
+12,16,Washington,7617364
+13,17,Arizona,7079203
+14,18,Massachusetts,6991852
+15,19,Tennessee,6859497
+16,20,Indiana,6751340
+17,21,Maryland,6148545
+18,22,Missouri,6141534
+19,23,Wisconsin,5871661
+20,24,Colorado,5723176
+21,25,Minnesota,5670472
+22,26,South Carolina,5078903
+23,27,Alabama,4997675
+24,28,Louisiana,4657305
+25,29,Kentucky,4494141
+26,30,Oregon,4207177
+27,31,Oklahoma,3948136
+28,32,Connecticut,3605330
+29,33,Puerto Rico,3311274
+30,34,Utah,3231370
+31,35,Iowa,3179090
+32,36,Nevada,3059238
+33,37,Arkansas,3006309
+34,38,Mississippi,2967023
+35,39,Kansas,2932099
+36,40,New Mexico,2109366
+37,41,Nebraska,1951480
+38,42,Idaho,1811617
+39,44,West Virginia,1801049
+40,45,Hawaii,1453498
+41,46,New Hampshire,1372175
+42,47,Maine,1357046
+43,48,Rhode Island,1091949
+44,49,Montana,1077978
+45,50,Delaware,981892
+46,51,South Dakota,881785
+47,53,North Dakota,773344
+48,54,Alaska,735951
+49,55,District of Columbia,683154
+50,56,Vermont,641637
+51,72,Wyoming,576641
