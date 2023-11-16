@@ -33,8 +33,28 @@ def draw_histogram(data, logx=False, logy=False, bins=100):
         plt.show()
 
 
+"""
 def draw_countplot(data, logx=False, logy=False):
-    """ Plot the value counts for catgeorical variables in a df."""
+    " Plot the value counts for catgeorical variables in a df."
+    fig, axs =plt.subplots(3, 10)
+    for ax, col in zip(axs, data.columns): 
+        print('***', col, '*** :')
+        # fig, ax = plt.subplots(figsize=(3, 2))
+        # data[col].plot.bar(legend=True, logx=logx, logy=logy)
+        order = data[col].value_counts(ascending=False).index
+        ax = sns.countplot(y=col, data=data, ax=ax, order=order) 
+        # to get %: sns.barplot(x=x, y=x,  estimator=percentage)
+        
+        ax.set_xlabel(xlabel='count', fontsize = 7) 
+        ax.set_ylabel(ylabel='', fontsize = 15)
+        ax.xaxis.set_tick_params(labelsize = 7)
+        ax.yaxis.set_tick_params(labelsize = 10)
+        ax.set_title(label = col, fontsize = 20)
+        plt.show()
+"""
+
+def draw_countplot(data, logx=False, logy=False):
+    " Plot the value counts for catgeorical variables in a df."
     for col in data.columns: 
         print('***', col, '*** :')
         fig, ax = plt.subplots(figsize=(3, 2))
