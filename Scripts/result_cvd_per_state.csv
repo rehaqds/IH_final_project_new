@@ -1,0 +1,51 @@
+state_id,state_name,count_cvd,count_persons,"% cvd"
+5,Arkansas,483,3257,14.8
+54,"West Virginia",636,4626,13.7
+21,Kentucky,389,3336,11.7
+1,Alabama,357,3228,11.1
+28,Mississippi,322,2915,11.0
+40,Oklahoma,305,2793,10.9
+39,Ohio,961,8964,10.7
+29,Missouri,806,7573,10.6
+45,"South Carolina",616,5969,10.3
+38,"North Dakota",396,3846,10.3
+23,Maine,566,5647,10.0
+47,Tennessee,295,2966,9.9
+46,"South Dakota",453,4614,9.8
+22,Louisiana,300,3137,9.6
+13,Georgia,457,4841,9.4
+26,Michigan,541,5813,9.3
+18,Indiana,533,5792,9.2
+56,Wyoming,257,2816,9.1
+33,"New Hampshire",383,4193,9.1
+36,"New York",2018,22239,9.1
+20,Kansas,991,11077,8.9
+4,Arizona,621,7027,8.8
+31,Nebraska,869,10169,8.5
+30,Montana,339,4068,8.3
+37,"North Carolina",268,3244,8.3
+10,Delaware,191,2335,8.2
+48,Texas,529,6443,8.2
+19,Iowa,482,5968,8.1
+32,Nevada,140,1723,8.1
+51,Virginia,507,6256,8.1
+55,Wisconsin,366,4512,8.1
+42,Pennsylvania,322,4019,8.0
+24,Maryland,781,9994,7.8
+50,Vermont,329,4259,7.7
+16,Idaho,294,3894,7.6
+17,Illinois,143,1889,7.6
+44,"Rhode Island",269,3595,7.5
+2,Alaska,246,3305,7.4
+53,Washington,636,8682,7.3
+35,"New Mexico",305,4162,7.3
+27,Minnesota,701,10286,6.8
+34,"New Jersey",307,4492,6.8
+41,Oregon,213,3174,6.7
+9,Connecticut,334,5080,6.6
+25,Massachusetts,297,4667,6.4
+49,Utah,414,6518,6.4
+6,California,291,4666,6.2
+15,Hawaii,322,5379,6.0
+8,Colorado,344,6352,5.4
+11,"District of Columbia",100,1911,5.2
